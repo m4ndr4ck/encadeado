@@ -1,4 +1,4 @@
-# encadeado
+# Encadeado
 
 Encadeado is a software that automates the bootstrap proccess of new applications in an enterprise environment. By providing just the application name it will handle all the necessary processes to create:
 
