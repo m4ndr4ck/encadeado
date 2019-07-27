@@ -1,6 +1,6 @@
 # Encadeado
 
-Encadeado is a software that automates the bootstrap process of new applications in an enterprise environment. By providing just the application name it will handle all the necessary processes to create:
+Encadeado is a software that automates the bootstrap process of new applications in an enterprise environment. By providing just the application name it will handle all the necessary steps to create:
 
 - CI/CD pipelines with Jenkins
 - Git and Nexus repositories
